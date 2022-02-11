@@ -1,0 +1,29 @@
+.front-end-basics{
+    margin: 40px;
+
+}
+.square__wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 110px
+}
+.square__1,
+.square__2{
+    width: 50px;
+    height: 50px;
+    border: 1px solid #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.square__1{
+    margin-right: 10px;
+}
+.circle{
+    width: 10px;
+    height: 10px;
+    border: 1px solid #aaa;
+    border-radius: 50%;
+    padding: 10px;
+}

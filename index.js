@@ -30,4 +30,13 @@
       console.log(i);
     }
   }
-})();
+});
+
+
+//Draw two squares of width 50px side by side
+//Each square should have a crcle in the center with radius of 10px.
+//distance between two square would be 10px
+
+
+
+
